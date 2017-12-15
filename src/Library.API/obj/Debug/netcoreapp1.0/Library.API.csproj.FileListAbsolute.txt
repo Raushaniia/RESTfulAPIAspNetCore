@@ -1,0 +1,11 @@
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.deps.json
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.runtimeconfig.json
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.runtimeconfig.dev.json
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.dll
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\bin\Debug\netcoreapp1.0\Library.API.pdb
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.csproj.CoreCompileInputs.cache
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.AssemblyInfoInputs.cache
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.AssemblyInfo.cs
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.dll
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.pdb
+D:\code\RESTfulAPIAspNetCore_Course-master\src\Library.API\obj\Debug\netcoreapp1.0\Library.API.csprojResolveAssemblyReference.cache
